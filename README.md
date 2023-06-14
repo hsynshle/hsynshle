@@ -21,4 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsynshle&show_icons=true&locale=en" alt="hsynshle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hsynshle&" alt="hsynshle" /></p>
+![snake gif](https://github.com/hüseyinşele/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
