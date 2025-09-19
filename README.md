@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc70,100:ff5e62&height=200&section=header&text=Welcome%20To%20My%20GitHub!&fontSize=40&fontColor=ffffff" />
+</p>
+<h1 align="center">Hi 👋, I'm Hüseyin ŞELE </h1>
+<h2 align="center">A passionate frontend developer from Türkiye </h3>
+
+
+
 # 💫 About Me:
 <br>- 🔭 I’m currently working on **frontend developer**<br><br>- 💬 Ask me about **frontend developer**<br><br>- 📫 How to reach me **hsynshle@gmail.com**
 
